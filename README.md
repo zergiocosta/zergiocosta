@@ -1,5 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
-## 🚀 GitHub Stats
-![](https://raw.githubusercontent.com/zergiocosta/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/zergiocosta/github-stats-transparent/output/generated/languages.svg)
+### 🚀 GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=zergiocosta)](https://github.com/zergiocosta/github-readme-stats)
